@@ -1,8 +1,9 @@
+
 # Baozi截图
 ![Baozi截图主界面](docs/screenshot.png)
 ![Baozi截图主界面](docs/screenshot2.png)
 ## 演示
-https://github.com/user-attachments/assets/f82cb1c2-a2df-4a26-b97e-8dd1acd6d804
+[https://github.com/user-attachments/assets/f82cb1c2-a2df-4a26-b97e-8dd1acd6d804](https://github.com/user-attachments/assets/1e34f000-f6c5-4996-b676-89254f7bdba4)
 
 
 
