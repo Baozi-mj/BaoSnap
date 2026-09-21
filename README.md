@@ -1,7 +1,7 @@
 
-# Baozi截图
-![Baozi截图主界面](docs/screenshot.png)
-![Baozi截图主界面](docs/screenshot2.png)
+# BaoSnap
+![BaoSnap主界面](docs/screenshot.png)
+![BaoSnap主界面](docs/screenshot2.png)
 ## 演示
 [https://github.com/user-attachments/assets/f82cb1c2-a2df-4a26-b97e-8dd1acd6d804](https://github.com/user-attachments/assets/1e34f000-f6c5-4996-b676-89254f7bdba4)
 
@@ -26,7 +26,7 @@
 
 ### 屏幕录制权限
 
-首次运行需要在 **系统设置 → 隐私与安全性 → 屏幕录制** 中允许 `BaoziShot`（或终端）访问屏幕，否则无法截图。
+首次运行需要在 **系统设置 → 隐私与安全性 → 屏幕录制** 中允许 `BaoSnap`（或终端）访问屏幕，否则无法截图。
 
 ## 快捷键
 
@@ -60,7 +60,7 @@
 历史记录保存在：
 
 ```
-~/Library/Application Support/BaoziShot/History/
+~/Library/Application Support/BaoSnap/History/
 ```
 
 | 操作 | 说明 |
