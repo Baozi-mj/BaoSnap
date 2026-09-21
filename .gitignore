@@ -18,3 +18,4 @@ Resources/AppIcon_1024.png
 .vscode/
 *.xcuserstate
 xcuserdata/
+.output.txt
